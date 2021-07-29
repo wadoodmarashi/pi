@@ -1,2 +1,2 @@
 # pi
-Some Pi generating algorithms using C#
+Some π (Pi) generating algorithms using C#
